@@ -8,10 +8,11 @@
     },
     {
       "name": "LITE",
-      "version": "v5.3.3",
+      "version": "v5.3.4",
       "changelog": "major changes including iOS 18 reveal screen, OTA, faster, more stable, added update checker",
-      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/raw/75872f4fab78260531cd881d691a36991b52f54d/HACKER_final_v5.3.3_BETA1.bin"
+      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/raw/refs/heads/main/HACKER_final_v5.3.4_BETA1.bin"
     }
   ]
 
 }
+
