@@ -4,17 +4,18 @@
       "name": "PRO",
       "version": "v5.3.5",
       "changelog": "first release",
-      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/releases/download/v5.3.4/HACKER_final_v5.3.4_PRO.bin"
+      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/releases/download/v5.3.5/HACKER_final_v5.3.5_PRO.bin"
     },
     {
       "name": "LITE",
       "version": "v5.3.5",
       "changelog": "major changes including iOS 18 reveal screen, OTA, faster, more stable, added update checker, tweaked the beacon sending",
-      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/releases/download/v5.3.4/HACKER_final_v5.3.4_BETA1.bin"
+      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/releases/download/v5.3.5/HACKER_final_v5.3.5_LITE.bin"
     }
   ]
 
 }
+
 
 
 
