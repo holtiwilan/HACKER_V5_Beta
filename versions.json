@@ -2,19 +2,20 @@
   "releases": [
     {
       "name": "PRO",
-      "version": "v5.3.7",
-      "changelog": "Changed the channel the HACKER WiFi is provided on",
-      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/releases/download/v5.3.7/HACKER_final_v5.3.7_PRO.bin"
+      "version": "v5.3.8",
+      "changelog": "Wi-Fi channel is chosen automatically",
+      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/releases/download/v5.3.8/HACKER_final_v5.3.8_PRO.bin"
     },
     {
       "name": "LITE",
-      "version": "v5.3.7",
-      "changelog": "Changed the channel the HACKER WiFi is provided on",
-      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/releases/download/v5.3.7/HACKER_final_v5.3.7_LITE.bin"
+      "version": "v5.3.8",
+      "changelog": "Wi-Fi channel is chosen automatically",
+      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/releases/download/v5.3.8/HACKER_final_v5.3.8_LITE.bin"
     }
   ]
 
 }
+
 
 
 
