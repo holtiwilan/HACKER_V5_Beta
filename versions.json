@@ -2,19 +2,20 @@
   "releases": [
     {
       "name": "PRO",
-      "version": "v5.3.9",
-      "changelog": "Added Failsafe methods for saving ssids and sending the Beacons.",
-      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/releases/download/v5.3.9/HACKER_final_v5.3.9_PRO.bin"
+      "version": "v5.3.10",
+      "changelog": "Added Failsafe methods for saving ssids and sending the Beacons. Added a Slave Mode to make the Device a Range extender for another Device.",
+      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/releases/download/v5.3.10/HACKER_final_v5.3.10_PRO.bin"
     },
     {
       "name": "LITE",
-      "version": "v5.3.9",
-      "changelog": "Added Failsafe methods for saving ssids and sending the Beacons.",
-      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/releases/download/v5.3.9/HACKER_final_v5.3.9_LITE.bin"
+      "version": "v5.3.10",
+      "changelog": "Added Failsafe methods for saving ssids and sending the Beacons. Added a Slave Mode to make the Device a Range extender for another Device.",
+      "firmware_url": "https://github.com/holtiwilan/HACKER_V5_Beta/releases/download/v5.3.10/HACKER_final_v5.3.10_LITE.bin"
     }
   ]
 
 }
+
 
 
 
